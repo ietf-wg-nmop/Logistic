@@ -4,7 +4,7 @@
 
 ## ITU: [LS-ITU-Federated-Learning](https://github.com/ietf-wg-nmop/Liaison-Statements-Out/blob/main/LS-ITU-Federated-Learning-rev%20042024.md)
 ## TMF: [LS-Out-TMF-Incident-management](https://github.com/ietf-wg-nmop/Liaison-Statements-Out/blob/main/LS-Out-TMF-Incident-management-rev%20042024.md)
-## ETSI: Digital Twin (TBC)
+## ETSI: [Digital Twin](https://github.com/ietf-wg-nmop/Liaison-Statements-Out/blob/main/LS-Out-ETSI-ZTM-rev%20042024.md)
 
 # Status of ongoing Calls
 
@@ -17,7 +17,7 @@
 
 Scheduled first week of May
 
-# Digital Map
+# Digital Map: interim to trigger discussion
 
 # Misc.
 
