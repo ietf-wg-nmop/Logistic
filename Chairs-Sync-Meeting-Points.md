@@ -11,7 +11,7 @@
 ## IPR Polls
 ### IPR Poll for [draft-davis-nmop-incident-terminology](https://github.com/ietf-wg-nmop/Logistic/blob/main/ipr-poll-cfa/draft-davis-nmop-incident-terminology.md): OK
 ### IPR Poll for [draft-feng-nmop-network-incident-yang](https://github.com/ietf-wg-nmop/Logistic/blob/main/ipr-poll-cfa/draft-feng-nmop-network-incident-yang.md): NOK
-### IPR Poll for [draft-netana-nmop-yang-kafka-integration](https://github.com/ietf-wg-nmop/Logistic/blob/main/ipr-poll-cfa/draft-netana-nmop-yang-kafka-integration.md): NOK
+### IPR Poll for [draft-netana-nmop-yang-kafka-integration](https://github.com/ietf-wg-nmop/Logistic/blob/main/ipr-poll-cfa/draft-netana-nmop-yang-kafka-integration.md): OK
 
 ## CFAs
 
