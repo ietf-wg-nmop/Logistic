@@ -21,7 +21,7 @@ https://mailarchive.ietf.org/arch/msg/nmop/uIXQ0bg2iDuBmaPFUD7__xbvTGo/
 * Aihua Guo: https://mailarchive.ietf.org/arch/msg/nmop/fcWqC2GeVxqTthqGOWHMAnPEnEY/
 * Zhidong Yin: https://mailarchive.ietf.org/arch/msg/nmop/vN6tEvjWlCEVp9KuXnN3pDqbVv4/
 * Guoxiang Liu: https://mailarchive.ietf.org/arch/msg/nmop/iLjxVCEMMEsyvQ_MiX9iauQImnw/
-* Kaichun Wu:
+* Kaichun Wu: https://mailarchive.ietf.org/arch/msg/nmop/bMTBwWtTHHU8QFWDlu5llnPZYTs/
 * Yanlei Zheng: https://mailarchive.ietf.org/arch/msg/nmop/BaJRVfX0R2owJLLeoPmgarv-vTE/
 * Yunbin Xu: https://mailarchive.ietf.org/arch/msg/nmop/-uIUFNMG4Ph_Nm4R-bLcTx1Hv1Q/
 * Xing Zhao:
