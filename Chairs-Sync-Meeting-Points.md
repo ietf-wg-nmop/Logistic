@@ -6,6 +6,9 @@
 ## TMF: [LS-Out-TMF-Incident-management](https://github.com/ietf-wg-nmop/Liaison-Statements-Out/blob/main/LS-Out-TMF-Incident-management-rev%20042024.md)
 ## ETSI: [Digital Twin](https://github.com/ietf-wg-nmop/Liaison-Statements-Out/blob/main/LS-Out-ETSI-ZTM-rev%20042024.md)
 
+Send the LS to the OPSAWG chairs to check if they are OK
+Send the LS to the list for review by 26/04/2024
+
 # Status of ongoing Calls
 
 ## IPR Polls
@@ -15,9 +18,9 @@
 
 ## CFAs
 
-Scheduled first week of May
+Scheduled first week of May (Med will take care of the calls)
 
-# Digital Map: interim to trigger discussion
+# Digital Map: interim to trigger discussion (04/06/2024)
 
 # Misc.
 
