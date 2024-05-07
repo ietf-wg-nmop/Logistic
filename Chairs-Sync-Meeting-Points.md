@@ -9,6 +9,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 ### TEAS Slot
 ## LS
 ## IAB Workshop
+### https://networkautomation.forum/autocon1
 ## Incident Mgt Structuring
 
 
