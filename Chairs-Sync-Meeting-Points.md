@@ -4,7 +4,6 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 
 # Agenda Items (13/05/2024)
 
-## CFAs Status
 ## Interim
 ### TEAS Slot
 ## LS
