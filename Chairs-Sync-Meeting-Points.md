@@ -2,6 +2,16 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (13/05/2024)
+
+## CFAs Status
+## Interim
+### TEAS Slot
+## LS
+## IAB Workshop
+### https://networkautomation.forum/autocon1
+## Incident Mgt Structuring
+
 # Agenda Items (07/05/2024)
 
 ## CFAs Status
