@@ -1,4 +1,4 @@
-The original IAB workshop on manageability identified 14 requirements that the operators wanted to see in the next generation of management. To what extent have those requirements been met, or do operators think that specifications are missing for the requirements.
+The original IAB workshop on manageability identified 14 requirements that the operators wanted to see in the next generation of management. To what extent have those requirements been met, or do operators think that specifications are missing for the requirements. 
 
 With what has been specified, what does the adoption look like? If there are hurdles towards adoption, what are they?   
 
@@ -6,7 +6,7 @@ We now get into some areas that we want to explore. For example, IETF has define
 
 Are we missing tools that will enable adoption? Are we missing sample implementations or libraries that customers can use “out-of-the” box? Should such implementations appear in public sources like Sonic or FRR? Do we need to do an outreach effort to describe what IETF has done? Would it help to conduct hackathons in operator get togethers like RIPE, NANOG, AutoConn etc.?  
 
-Would it help to identify a set of models that belong to a YANG library that are known to work together? What will constitute a minimal set of models that should be known to work together?
+Would it help to identify a set of models that belong to a YANG library that are known to work together? What will constitute a minimal set of models that should be known to work together? 
 
 Next, are there new requirements, or requirements that were not captured before that need specifications to enable automation, or adoption of AI in manageability?
 
