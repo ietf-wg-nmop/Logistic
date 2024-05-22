@@ -1,6 +1,17 @@
-The original IAB workshop on manageability identified 14 requirements that the operators
+The IAB has organized a workshop (June 4-June 6, 2002) to establish a
+dialog between network operators and protocol developers, and to
+guide the IETF focus on work regarding network management.  The
+outcome of that workshop was documented in the "IAB Network
+Management Workshop" (RFC 3535) which was instrumental for developing
+NETCONF, YANG, and RESTCONF.
+
+The 2002 IAB workshop on manageability identified 14 requirements that the operators
 wanted to see in the next generation of management. To what extent have those requirements
 been met, or do operators think that specifications are missing for the requirements. 
+
+20 years later, new requirements on network management operations are
+emerging from the operators. This workshop intends to identify and discuss these
+requirements.  
 
 With what has been specified, what does the adoption look like? If there are hurdles
 towards adoption, what are they?   
