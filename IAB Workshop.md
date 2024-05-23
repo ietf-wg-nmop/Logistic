@@ -1,43 +1,78 @@
+IAB workshop on the Next Era of Network Operations Management (NENOM)
+
 # Introduction
-The IAB has organized a workshop (June 4-June 6, 2002) to establish a dialog between network operators and protocol developers, and to
-guide the IETF focus on work regarding network management. The outcome of that workshop was documented in the "IAB Network
-Management Workshop" (RFC3535) that identified 14 requirements that the operators wanted to see in the next generation of management
 
-Those requirements were instrumental for developing first the NETCONF protocol (in the NETCONF Working Group), then YANG data modeling language
-(in the NETMOD Working Group), and finally RESTCONF. 
+The IAB organized a workshop (June 4-June 6, 2002) to establish a
+dialog between network operators and protocol developers, and to guide
+the IETF's focus when working on network management protocols. The
+outcome of that workshop was documented in the "IAB Network Management
+Workshop" [RFC3535] and identified 14 recommendations for
+consideration in future network management protocol designs.
 
-This IAB workshop should look at whether those requirements been met, and more importantly gather input on what are some of the new requirements the operators are facing, with the final idea to understand what the IETF should be focusing on.
+Those requirements were instrumental for developing first the NETCONF
+protocol (in the NETCONF Working Group) [RFC6241], the associated YANG
+data modeling language (in the NETMOD Working Group) [RFC7950], and
+most recently RESTCONF [RFC8040].
 
-# Current Implementation
-Taking into account the RFC 3535 requirements, what does the implementation look like today? If there are hurdles towards implementation, what are they?
-Do operators think that specifications are missing for the requirements? 
+This workshop is expected to concentrate on multiple topics, including
+a historical recap of the results from the last workshop, what the
+current state of the art and deployment looks like today, and what are
+new recommendations that should be considering going forward. 
 
-# New Requirements
+# Review of the past workshop results
 
-More than 20 years later, it's also time to brainstorm on next generation of management, as new requirements on network management operations are emerging
-from the operators. This workshop intends to identify and discuss these requirements.  
+This IAB workshop will look at whether these recommendations were met,
+and (more importantly) gather new input on what new issues network
+operators and network management implementers are facing.  This
+workshop hops to lay a new directional foundation for the continued
+future of network management protocols.  Recommendations that come out
+of this effort are expected to be helpful to the IETF, the IRTF and
+implementers, operational groups, and other bodies.
 
-For example, there is a strong desire to automate network management. What are we missing that will enable that automation?
+# Current state of the art
 
-Artifical Intelligence (AI) has placed requirements on network management. What are some of those requirements?
+Taking into account the [RFC3535] recommendations, what do
+implementations and deployments look like today? If there are hurdles
+towards implementation, what are they?  Are operators deploying
+solutions containing IETF network management standards, and if not, do
+operators think that specifications are missing particular features or
+requirements?
 
-# Tooling and Libraries
+# Laying a path for the future of Network Management
 
-Part of the problem with adoption could be related towards availability of tools and libraries. Are we missing tools that will enable adoption and automation? Are we missing sample implementations or libraries that customers can use “out-of-the” box? Should such implementations appear
-in public sources like Sonic or FRR? 
+Network topologies have become significantly more complex since the
+last workshop, as have the router and host implementations deployed
+within them.  Assuming this trend will only be increasing, this
+workshop intends to explore what previous recommendations still stand
+as unfulfilled, whether they remain relevant, and what new
+recommendations exist in the changing landscape.  For example,
+configuration management and automation have become increasingly
+important to enable large scale rollouts.  What protocols, libraries
+and tools are needed to enable network management at scale?  What
+balance of open source vs proprietary networks are deployed today, and
+which architectures are expected to work continuing forward?
 
-# A minimum set
+# Out of scope topics
 
-Would it help to identify a set of models that belong to a YANG library that are known to work together?
-What will constitute a minimal set of models that should be known to work together? 
+This workshop intends to focus on managing networks within the control
+plane (and its effect on the data plane), but management of content
+within the data plane is explicitly out of scope.  Specifically, a
+workshop relating to management techniques related to encrypted
+networks has already been held [RFC9490] and similar topics are out of
+scope for this workshop.
 
-# What this workshop would not cover
-- encryption in operator environments
-- what else?
+# Outreach and Timeline
 
-# Outreach
-In 2002, there were enough operators attending IETF meetings. Those numbers have dwindled over time, with some of the operators attending conferences that are more operator focused. These include RIPE, NANOG, AutoConn etc.
+In 2002, many network operators attended IETF meetings and
+participated in network management protocol discussions. Direct
+participation of network operators have since dwindled, with many
+operators focusing on conferences that are more central to their
+needs -- these include RIPE, NANOG, AutoConn etc.
 
-As such the IAB may have to do an outreach effort to get the input they are looking for. A tentative plan is to target these conferences in the October/November 2024 timeframe, and virtual workshops, followed by a final virtual calls tentatively in December to discuss the findings. 
-Note: "tentatively" as the key metric for success is the collection of enough feedback, from enough diverse horizons. 
+Under this effort we expect to initially have an outreach effort to
+attract opinions and interest by visiting these other venues.  This
+will be followed by a final virtual workshop for this effort
+tentatively set for December of 2024.  Until the final workshop draws
+close, the mailing list will be used for interim participation/BoFs at
+other conferences, general announcements and any related discussions.
 
