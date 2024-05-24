@@ -35,7 +35,7 @@ Taking into account the [RFC3535] recommendations, what do
 implementations and deployments look like today? If there are hurdles
 towards implementation, what are they?  Are operators deploying
 solutions containing IETF network management standards, and if not, do
-operators think that specifications are missing particular features or
+operators think that specifications are missing key features or
 requirements?
 
 # Laying a path for the future of Network Management
