@@ -67,12 +67,12 @@ In 2002, many network operators attended IETF meetings and
 participated in network management protocol discussions. Direct
 participation of network operators have since dwindled, with many
 operators focusing on conferences that are more central to their
-needs -- these include RIPE, NANOG, AutoConn etc.
+needs -- these include RIPE, NANOG, AutoConn, etc.
 
-Under this effort we expect to initially have an outreach effort to
-attract opinions and interest by visiting these other venues.  This
+We expect to initially have an outreach effort to socialize this effort
+with a hop to attract and capture opinions and interest by visiting these other venues.  This
 will be followed by a final virtual workshop for this effort
 tentatively set for December of 2024.  Until the final workshop draws
 close, the mailing list will be used for interim participation/BoFs at
-other conferences, general announcements and any related discussions.
+other conferences, general announcements, and any related discussions.
 
