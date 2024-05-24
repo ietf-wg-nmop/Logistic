@@ -24,7 +24,7 @@ new recommendations that should be considering going forward.
 This IAB workshop will look at whether these recommendations were met,
 and (more importantly) gather new input on what new issues network
 operators and network management implementers are facing.  This
-workshop hops to lay a new directional foundation for the continued
+workshop ambitions to lay a new directional foundation for the continued
 future of network management protocols.  Recommendations that come out
 of this effort are expected to be helpful to the IETF, the IRTF and
 implementers, operational groups, and other bodies.
