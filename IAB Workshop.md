@@ -36,7 +36,7 @@ implementations and deployments look like today? If there are hurdles
 towards implementation, what are they?  Are operators deploying
 solutions containing IETF network management standards, and if not, do
 operators think that specifications are missing key features or
-requirements?
+requirements? Are there alternate solutions that better fit the operators needs? Etc.
 
 # Laying a path for the future of Network Management
 
