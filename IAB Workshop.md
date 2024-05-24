@@ -16,7 +16,7 @@ most recently RESTCONF [RFC8040].
 
 This workshop is expected to concentrate on multiple topics, including
 a historical recap of the results from the last workshop, what the
-current state of the art and deployment looks like today, and what are
+current state of the art and deployment looks like today, what are the recommendations that were not followed, and what are
 new recommendations that should be considering going forward. 
 
 # Review of the past workshop results
