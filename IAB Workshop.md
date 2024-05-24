@@ -75,5 +75,5 @@ attract opinions and interest by visiting these other venues. This workshop
 will be followed by a final virtual workshop that will be
 tentatively organized in December 2024.  Until the final workshop draws
 close, the mailing list will be used for interim participation/BoFs at
-other conferences, general announcements and any related discussions.
+other conferences, general announcements, and any related discussions.
 
