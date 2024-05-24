@@ -72,11 +72,8 @@ implementers, operational groups, and other entities.
 
 # Out of scope topics
 
-The NEMOPS workshop intends to focus on managing networks within the control
-plane (and its effect on the data plane), but management of content
-within the data plane is explicitly out of scope.  Specifically, a
-workshop dedicated to management techniques related to encrypted
-networks has already been held [RFC9490] and these topics are therefore out of
+A workshop dedicated to management techniques related to encrypted
+networks has already been held [RFC9490]; these topics are therefore out of
 scope for this workshop.
 
 # Outreach and Timeline
