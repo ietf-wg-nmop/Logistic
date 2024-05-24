@@ -2,6 +2,14 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (27/05/2024)
+
+## CFA
+## Interim
+## IAB Workshop
+## Incident Mgt Structuring
+## Next IETF Meeting
+
 # Agenda Items (13/05/2024)
 
 ## Interim
