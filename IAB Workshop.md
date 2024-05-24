@@ -26,7 +26,7 @@ and (more importantly) gather new input on what new issues network
 operators and network management implementers are facing.  This
 workshop ambitions to lay a new directional foundation for the continued
 future of network management protocols.  Recommendations that come out
-of this effort are expected to be helpful to the IETF, the IRTF and
+of this effort are expected to be helpful to the global industry, including the IETF, the IRTF, and
 implementers, operational groups, and other bodies.
 
 # Current state of the art
