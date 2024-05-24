@@ -1,4 +1,4 @@
-IAB workshop on the Next Era of Network Management Operations  (NEMOPS)
+IAB workshop on the Next Era of Network Management Operations (NEMOPS)
 
 # Introduction
 
@@ -8,7 +8,7 @@ IETF when working on network management protocols. The
 outcome of that workshop was documented in the "IAB Network Management
 Workshop" [RFC3535] which identified 14 operators requirements for consideration 
 in future network management protocol design and related data models, along with some 
-recommandations for the IETF organization.
+recommendations for the IETF organization.
 
 Those requirements were instrumental for developing first the NETCONF
 protocol (in the NETCONF Working Group) [RFC6241], the associated YANG
@@ -18,20 +18,34 @@ RESTCONF [RFC8040], and most recently CORECONF.
 More than 20 years later, it is time to evaluate what has been achieved since
 then. This new workshop aims at discussing the following key topics:
 
-- recap the historical results since the last workshop (current deployments, state of the art) and identify the operational barriers for making these technologies widely implemented (limitations, hurdles)
-- sketch new requirements for future network management operations, in a collective manner with the industry. A plan of action including recommandations for the IETF organization is welcome.
+- Recap the historical results since the 2002 workshop (current deployments,
+  state of the art) and identify the operational barriers for making these
+  technologies widely implemented (limitations, hurdles).
+
+- Sketch new requirements for future network management operations, in a
+  collective manner with the industry. A plan of action, including
+  recommendations for the IETF organization, is welcome.
 
 # Review of the 2002 Workshop Outcomes
 
-The NEMOPS IAB workshop will provide an assessment of the RFC3535 requirements in terms of specifications completeness. Also this workshop will assess to what extent the RFC3535 recommandations were driving network management efforts within the IETF and influence other Standard Development Organizations (SDO) activities. 
+The NEMOPS IAB workshop will provide an assessment of the RFC3535 requirements
+in terms of specifications completeness. Also this workshop will assess to what
+extent the RFC3535 recommendations were driving network management efforts
+within the IETF and influence other Standards Development Organizations (SDOs)activities. 
 
-Regarding operator deployments,he following items will be discussed (non exhaustive list):
+Regarding operator deployments, the following items will be discussed (non exhaustive list):
+
 - What do implementations and deployments look like today?
+
 - If there are any issues experienced during implementation, what are they?
+
 - Do operators deploy designs that are based upon IETF network management standards?
-- If not, do operators think that further specifications that would document key features or
-requirements should be worked on and published (possibly by the IETF)? 
-- Are there any alternate solutions that better fit the operators' needs than those that exist today (including those that rely upon IETF standards)? 
+
+- If not, do operators think that further specifications that would document key features
+  or requirements should be worked on and published (possibly by the IETF)? 
+
+- Are there any alternate solutions that better fit the operators' needs
+  than those that exist today (including those that rely upon IETF standards)? 
 
 # Laying a path for the future of Network Management
 
@@ -42,10 +56,14 @@ to lay a new directional foundation for the continued
 future of network management protocols, gathering new input on 
 what new issues network operators and network management implementers are facing.
 
-Potentialy topics of discussion:
+The candidate items for discussion are as follows (non exhaustive list):
+
 - Tooling, opensource, experimentation, system integration
+
 - Data observability (Data & Knowledge)
+
 - Integration issues with business layer
+
 - Automation, orchestration, and autonomy 
 
 Recommendations that may come out of this effort should be helpful 
@@ -71,8 +89,10 @@ needs -- these include RIPE, NANOG, AutoConn, etc.
 
 Under this effort we expect to stimulate an outreach effort to
 attract opinions and interest by visiting these other venues and by running 
-virtual sessions. This series of outreachs will be concluded by a final virtual session, tentatively organized in December 2024, where we will summarize the findings. 
+virtual sessions. This series of outreaches will be concluded by a final
+virtual session, tentatively organized in December 2024, where we will
+summarize the findings. 
 
-Until the conclusion session draws close, the mailing list will be used for interim participation/BoFs at
-other conferences, general announcements, and any related discussions.
-
+Until the conclusion session draws close, the mailing list will be
+used for interim participation/BoFs at other conferences, general
+announcements, and any related discussions.
