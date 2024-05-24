@@ -12,7 +12,7 @@ consideration in future network management protocol designs.
 Those requirements were instrumental for developing first the NETCONF
 protocol (in the NETCONF Working Group) [RFC6241], the associated YANG
 data modeling language (in the NETMOD Working Group) [RFC7950], and
-most recently RESTCONF [RFC8040].
+RESTCONF [RFC8040], and most recently CORECONF.
 
 This workshop is expected to concentrate on multiple topics, including
 a historical recap of the results from the last workshop, what the
