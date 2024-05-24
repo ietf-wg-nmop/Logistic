@@ -1,4 +1,4 @@
-IAB workshop on the Next Era of Network Operations Management (NENOM)
+IAB workshop on the Next Era of Network Management Operations  (NEMOps)
 
 # Introduction
 
