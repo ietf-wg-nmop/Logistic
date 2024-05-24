@@ -1,4 +1,4 @@
-IAB workshop on the Next Era of Network Management Operations  (NEMOps)
+IAB workshop on the Next Era of Network Management Operations  (NEMOPS)
 
 # Introduction
 
@@ -21,9 +21,9 @@ the hurdles that were encountered when operationalizing the recommendations.
 
 # Review of the 2002 workshop outcomes
 
-This IAB workshop will look at whether the recommendations documented by the previous 2002 workshop were met,
+The NEMOPS IAB workshop will look at whether the recommendations documented by the previous 2002 workshop were met,
 and (more importantly) will gather new input on what new issues network
-operators and network management implementers are facing.  This
+operators and network management implementers are facing.  The NEMOPS
 workshop ambitions to lay a new directional foundation for the continued
 future of network management protocols.  Recommendations that come out
 of this effort should be helpful to the global industry, including the IETF, the IRTF, as well as
@@ -55,7 +55,7 @@ which architectures are expected to work continuing forward?
 
 # Out of scope topics
 
-This workshop intends to focus on managing networks within the control
+The NEMOPS workshop intends to focus on managing networks within the control
 plane (and its effect on the data plane), but management of content
 within the data plane is explicitly out of scope.  Specifically, a
 workshop dedicated to management techniques related to encrypted
