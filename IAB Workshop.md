@@ -61,7 +61,7 @@ The candidate items for discussion are as follows (non exhaustive list):
 
 - Tooling, opensource, experimentation, system integration
 
-- Data observability (Data & Knowledge)
+- Data consistency to support richer observability (Data & Knowledge)
 
 - Integration issues with business layer
 
