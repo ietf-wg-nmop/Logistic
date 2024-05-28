@@ -37,15 +37,16 @@ Regarding operator deployments, the following items will be discussed (non exhau
 
 - What do implementations and deployments look like today?
 
-- If there are any issues experienced during implementation, what are they?
+- What issues did operators encounter during implementation?
 
-- Do operators deploy designs that are based upon IETF network management standards?
+- What IETF network management standards are operators deploying today?
 
-- If not, do operators think that further specifications that would document key features
-  or requirements should be worked on and published (possibly by the IETF)? 
+- How are existing IETF network management standards insufficient for operators' needs?
 
-- Are there any alternate solutions that better fit the operators' needs
-  than those that exist today (including those that rely upon IETF standards)? 
+- What additional features or requirements do operators feel need to be standardized (possibly by the IETF)?
+
+- What alternative (i.e., non-IETF) solutions are being deployed that better
+  fit operators' needs?
 
 # Laying a path for the future of Network Management
 
