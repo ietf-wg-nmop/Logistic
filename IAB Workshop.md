@@ -1,4 +1,4 @@
-IAB workshop on the Next Era of Network Management Operations (NEMOPSWS)
+IAB workshop on the Next Era of Network Management Operations (NEMOPS)
 
 # Introduction
 
