@@ -2,6 +2,16 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Item (04/06/2024)
+
+## Interim logistics
+### Initilaized [minutes](https://notes.ietf.org/notes-ietf-interim-2024-nmop-01-nmop?view) (Done)
+### Post Chairs Slides (Done)
+## Document Status
+## Structure the work about anomaly management
+## IETF#120 Preparation
+
+
 # Agenda Items (27/05/2024)
 
 ## CFA
