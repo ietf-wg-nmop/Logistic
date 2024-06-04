@@ -5,7 +5,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 # Agenda Item (04/06/2024)
 
 ## Interim logistics
-### Initilaized [minutes](https://notes.ietf.org/notes-ietf-interim-2024-nmop-01-nmop?view) (Done)
+### Initiliazed [minutes](https://notes.ietf.org/notes-ietf-interim-2024-nmop-01-nmop?view) (Done)
 ### Post Chairs [Slides](https://datatracker.ietf.org/meeting/interim-2024-nmop-01/materials/slides-interim-2024-nmop-01-sessa-chairs-slides-00) (Done)
 ## Document Status
 ## Structure the work about anomaly management
