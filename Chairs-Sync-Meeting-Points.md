@@ -9,6 +9,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 ### Post Chairs [Slides](https://datatracker.ietf.org/meeting/interim-2024-nmop-01/materials/slides-interim-2024-nmop-01-sessa-chairs-slides-00) (Done)
 ## Document Status
 ## Structure the work about anomaly management
+## Milestones
 ## IETF#120 Preparation
 
 
