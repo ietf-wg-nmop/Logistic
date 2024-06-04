@@ -13,7 +13,8 @@ recommendations for the IETF organization.
 Those requirements were instrumental in developing first the NETCONF
 protocol (in the NETCONF Working Group) [RFC6241], the associated YANG
 data modeling language (in the NETMOD Working Group) [RFC7950], 
-RESTCONF [RFC8040], and most recently CORECONF.
+RESTCONF [RFC8040], and most recently CORECONF, Laying Model deployment guidances
+[RFC8969][RFC8309].
 
 More than 20 years later, it is time to evaluate what has been achieved since
 then. This new workshop aims to discuss the following key topics:
@@ -52,14 +53,15 @@ Regarding operator deployments, the following items will be discussed (non-exhau
 
 Network topologies have become significantly more complex since the
 2002 IAB workshop, as have the router and host technologies. 
-Assuming this trend will continue, this workshop's ambition is
+Assuming this trend will continue, this workshop's incentive is
 to lay a new directional foundation for the continued
 future of network management protocols, gathering new input on 
 what new issues network operators and network management implementers are facing.
 
 The candidate items for discussion are as follows (non-exhaustive list):
 
-- Tooling, opensource, experimentation, system integration
+- Tooling, opensource, experimentation, proof of concept, multi-vendor interoperability test (e.g., EANTC test),
+  system integration
 
 - Data consistency to support richer observability (Data & Knowledge)
 
@@ -74,7 +76,7 @@ implementers, operational groups, and other entities.
 # Out of scope topics
 
 A workshop dedicated to management techniques related to encrypted
-networks have already been held [RFC9490]; these topics are therefore out of
+networks have already been held [RFC9490]; such topic is therefore out of
 scope for this workshop.
 
 # Outreach and Timeline
@@ -86,7 +88,8 @@ operators focusing on conferences that are more central to their
 needs -- these include RIPE, NANOG, APRICOT, AutoConn, etc.
 
 Under this effort, we expect to stimulate an outreach effort to
-attract opinions and interest by visiting these other venues and running 
+attract opinions and interest by visiting these other venues 
+(e.g., NANOG,TMF multi-SDO initiative，MEF, ONUG, MPLS congress) and running 
 virtual sessions. This series of outreaches will be concluded by a final
 virtual session, tentatively organized in December 2024, where we will
 summarize the findings. 
