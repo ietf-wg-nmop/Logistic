@@ -2,6 +2,14 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Item (10/06/2024)
+
+## Interim follow-up
+## Structure the work about anomaly management
+## Milestones
+## IETF#120 Preparation: Send call for slot request  (use https://github.com/ietf-wg-nmop/IETF-Meetings/blob/main/120/Requested-Slots.md)
+
+
 # Agenda Item (04/06/2024)
 
 ## Interim logistics
