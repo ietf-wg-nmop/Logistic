@@ -8,6 +8,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 ## Structure the work about anomaly management
 ## Milestones
 ## Interim follow-up
+## IAB workshop latest update?
 
 # Agenda Item (04/06/2024)
 
