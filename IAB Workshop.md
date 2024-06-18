@@ -6,26 +6,26 @@ The IAB organized a workshop in June 2002 to establish a
 dialog between network operators and protocol developers, and to guide
 IETF when working on network management protocols. The
 outcome of that workshop was documented in the "Overview of the 2002 IAB Network Management 
-Workshop" [RFC3535] which identified 14 operators requirements for consideration 
+Workshop" [RFC3535] which identified 14 operator requirements for consideration 
 in future network management protocol design and related data models, along with some 
-recommendations for the IETF organization.
+recommendations for the IETF.
 
 Those requirements were instrumental in developing first the NETCONF
 protocol (in the NETCONF Working Group) [RFC6241], the associated YANG
 data modeling language (in the NETMOD Working Group) [RFC7950], 
-RESTCONF [RFC8040], and most recently CORECONF, Laying Model deployment guidances
-[RFC8969][RFC8309].
+RESTCONF [RFC8040], and most recently CORECONF [I.D-ietf-core-comi].
 
-More than 20 years later, it is time to evaluate what has been achieved since
-then. This new workshop aims to discuss the following key topics:
 
-- Recap the historical results since the 2002 workshop (current deployments,
-  state of the art) and identify the operational barriers to making these
-  technologies widely implemented (limitations, hurdles).
+More than 20 years later, it is timely to evaluate what has been achieved since
+the original workshop. This new workshop aims to discuss the following key topics:
 
-- Sketch new requirements for future network management operations, in a
-  collective manner with the industry. A plan of action, including
-  recommendations for the IETF organization, is welcome.
+- Review the outcomes and results of the 2002 workshop (current deployments,
+  state of the art) and identify any operational barriers that prevent these
+  technologies from being widely implemented (limitations, hurdles).
+
+- Sketch new requirements for future network management operations in a
+  collaborative manner with the industry, and develop a plan of action and
+  recommendations for the IETF.
 
 # Review of the 2002 Workshop Outcomes
 
@@ -34,7 +34,7 @@ in terms of specifications completeness. Also, this workshop will assess to what
 extent the RFC3535 recommendations were driving network management efforts
 within the IETF and influencing other Standards Development Organizations' (SDOs) activities. 
 
-Regarding operator deployments, the following items will be discussed (non-exhaustive list):
+Regarding operator deployments, discussion topics will include, but are not limited to:
 
 - What do implementations and deployments look like today?
 
@@ -58,12 +58,12 @@ to lay a new directional foundation for the continued
 future of network management protocols, gathering new input on 
 what new issues network operators and network management implementers are facing.
 
-The candidate items for discussion are as follows (non-exhaustive list):
+The candidate items for discussion include, but are not limited to:
 
-- Tooling, opensource, experimentation, proof of concept, multi-vendor interoperability test (e.g., EANTC test),
+- Tooling, opensource, experimentation, proof of concept, multi-vendor interoperability test (e.g., EANTC),
   system integration
 
-- Data consistency to support richer observability (Data & Knowledge)
+- Data consistency to support richer full stack observability (Data & Knowledge)
 
 - Integration issues with the business layer
 
@@ -76,24 +76,24 @@ implementers, operational groups, and other entities.
 # Out of scope topics
 
 A workshop dedicated to management techniques related to encrypted
-networks have already been held [RFC9490]; such topic is therefore out of
-scope for this workshop.
+networks has recently been held [RFC9490]; Another workshop dedicated
+to environment impact of internet application and system has been held 
+[RFC9547]. These topics are therefore out of scope for this workshop.
 
 # Outreach and Timeline
 
 In 2002, many network operators attended IETF meetings and
 participated in network management protocol discussions. Direct
-participation of network operators has since dwindled, with many
+IETF participation from network operators has since decreased, with many
 operators focusing on conferences that are more central to their
 needs -- these include RIPE, NANOG, APRICOT, AutoConn, etc.
 
 Under this effort, we expect to stimulate an outreach effort to
-attract opinions and interest by visiting these other venues 
-(e.g., NANOG,TMF multi-SDO initiative，MEF, ONUG, MPLS congress) and running 
-virtual sessions. This series of outreaches will be concluded by a final
-virtual session, tentatively organized in December 2024, where we will
+attract opinions and interest by visiting these other venues and running 
+virtual sessions. This series of outreach efforts will be concluded by a final
+virtual session, tentatively scheduled for December 2024, where the group will
 summarize the findings. 
 
-Until the conclusion session draws close, the mailing list will be
-used for interim participation/BoFs at other conferences, general
-announcements, and any related discussions.
+Until the conclusion session completes, the mailing list will be
+used for outreach events at other conferences, general
+announcements, and related discussions.
