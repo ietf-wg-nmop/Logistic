@@ -13,7 +13,8 @@ recommendations for the IETF.
 Those requirements were instrumental in developing first the NETCONF
 protocol (in the NETCONF Working Group) [RFC6241], the associated YANG
 data modeling language (in the NETMOD Working Group) [RFC7950], 
-RESTCONF [RFC8040], and most recently CORECONF [draft-ietf-core-comi].
+RESTCONF [RFC8040], and most recently CORECONF [I-D.ietf-core-comi].
+
 
 More than 20 years later, it is timely to evaluate what has been achieved since
 the original workshop. This new workshop aims to discuss the following key topics:
@@ -51,7 +52,7 @@ Regarding operator deployments, discussion topics will include, but are not limi
 # Laying a path for the future of Network Management
 
 Network topologies have become significantly more complex since the
-2002 IAB workshop, as have router and host technologies. 
+2002 IAB workshop, as have the router and host technologies. 
 Assuming this trend will continue, this workshop's ambition is
 to lay a new directional foundation for the continued
 future of network management protocols, gathering new input on 
@@ -59,7 +60,8 @@ what new issues network operators and network management implementers are facing
 
 The candidate items for discussion include, but are not limited to:
 
-- Tooling, opensource, experimentation, system integration
+- Tooling, opensource, experimentation, proof of concept, multi-vendor interoperability test (e.g., EANTC),
+  system integration
 
 - Data consistency to support richer observability (Data & Knowledge)
 
@@ -74,8 +76,9 @@ implementers, operational groups, and other entities.
 # Out of scope topics
 
 A workshop dedicated to management techniques related to encrypted
-networks has recently been held [RFC9490]; these topics are therefore out of
-scope for this workshop.
+networks has recently been held [RFC9490]. Another workshop dedicated
+to environment impact of Internet applications and systems has also been held 
+[RFC9547]. These topics are, therefore, out of scope for this workshop.
 
 # Outreach and Timeline
 
