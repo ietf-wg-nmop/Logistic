@@ -78,7 +78,7 @@ implementers, operational groups, and other entities.
 A workshop dedicated to management techniques related to encrypted
 networks has recently been held [RFC9490]. Another workshop dedicated
 to environment impact of internet application and system has also been held 
-[RFC9547]. These topics are therefore out of scope for this workshop.
+[RFC9547]. These topics are, therefore, out of scope for this workshop.
 
 # Outreach and Timeline
 
