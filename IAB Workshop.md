@@ -13,7 +13,7 @@ recommendations for the IETF.
 Those requirements were instrumental in developing first the NETCONF
 protocol (in the NETCONF Working Group) [RFC6241], the associated YANG
 data modeling language (in the NETMOD Working Group) [RFC7950], 
-RESTCONF [RFC8040], and most recently CORECONF [I.D-ietf-core-comi].
+RESTCONF [RFC8040], and most recently CORECONF [I-D.ietf-core-comi].
 
 
 More than 20 years later, it is timely to evaluate what has been achieved since
