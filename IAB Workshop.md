@@ -63,7 +63,7 @@ The candidate items for discussion include, but are not limited to:
 - Tooling, opensource, experimentation, proof of concept, multi-vendor interoperability test (e.g., EANTC),
   system integration
 
-- Data consistency to support richer full stack observability (Data & Knowledge)
+- Data consistency to support richer observability (Data & Knowledge)
 
 - Integration issues with the business layer
 
