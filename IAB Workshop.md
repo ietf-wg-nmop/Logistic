@@ -53,7 +53,7 @@ Regarding operator deployments, discussion topics will include, but are not limi
 
 Network topologies have become significantly more complex since the
 2002 IAB workshop, as have the router and host technologies. 
-Assuming this trend will continue, this workshop's incentive is
+Assuming this trend will continue, this workshop's ambition is
 to lay a new directional foundation for the continued
 future of network management protocols, gathering new input on 
 what new issues network operators and network management implementers are facing.
