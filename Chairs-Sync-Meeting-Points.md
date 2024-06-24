@@ -6,6 +6,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 
 * IETF#120 Preparation
 * Digitam Map concept & Requirements
+* IAB Workshop update
   
 # Agenda Item (17/06/2024)
 
