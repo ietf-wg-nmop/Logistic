@@ -2,6 +2,12 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Item (07/01/2024)
+
+* IETF#120 Preparation
+* Digital Map concept & Requirements
+* IAB Workshop update
+  
 # Agenda Item (24/06/2024)
 
 * IETF#120 Preparation
