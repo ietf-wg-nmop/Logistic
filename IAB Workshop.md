@@ -53,7 +53,7 @@ A workshop dedicated to management techniques related to encrypted networks has 
 
 ## Pre-Workshop Information Gathering & Outreach
 
-In 2002, many network operators attended IETF meetings and participated in network management protocol discussions. Direct IETF participation from network operators has since decreased, with many operators focusing on conferences that are more central to their needs -- these include RIPE, NANOG, APRICOT, AutoConn, etc. These are not an official part of the IAB workshop.
+In 2002, many network operators attended IETF meetings and participated in network management protocol discussions. Direct IETF participation from network operators has since decreased, with many operators focusing on conferences that are more central to their needs (RIPE, NANOG, APRICOT, AutoConn, etc.). These are not an official part of the IAB workshop.
 
 Under this effort, we expect to stimulate an outreach effort to attract opinions and interest by visiting these other venues and running virtual sessions. This series of outreach efforts will be concluded by a final online Workshop where the group will summarize the findings. 
 
