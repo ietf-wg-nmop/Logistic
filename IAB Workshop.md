@@ -49,12 +49,35 @@ Recommendations that may come out of this effort should be helpful to the global
 
 ## Out of scope topics
 
-A workshop dedicated to management techniques related to encrypted networks has recently been held [RFC9490]. Another workshop dedicated to environment impact of Internet applications and systems has also been held [RFC9547]. These topics are, therefore, out of scope for this workshop.
+A workshop dedicated to management techniques related to encrypted networks has recently been held [RFC9490]. Another workshop dedicated to the environmental impact of Internet applications and systems has also been held [RFC9547]. These topics are, therefore, out of scope for this workshop. Topics that are clearly in the scope of NMRG in IRTF are also out of scope. 
 
-## Outreach and Timeline
+## Pre-Workshop Information Gathering & Outreach
 
 In 2002, many network operators attended IETF meetings and participated in network management protocol discussions. Direct IETF participation from network operators has since decreased, with many operators focusing on conferences that are more central to their needs -- these include RIPE, NANOG, APRICOT, AutoConn, etc.
 
-Under this effort, we expect to stimulate an outreach effort to attract opinions and interest by visiting these other venues and running virtual sessions. This series of outreach efforts will be concluded by a final virtual session, tentatively scheduled for December 2024, where the group will summarize the findings. 
+Under this effort, we expect to stimulate an outreach effort to attract opinions and interest by visiting these other venues and running virtual sessions. This series of outreach efforts will be concluded by a final online Workshop where the group will summarize the findings. 
 
-Until the conclusion session completes, the mailing list will be used for outreach events at other conferences, general announcements, and related discussions.
+The mailing list nemops-interest@iab.org will be used for outreach events at other conferences, general announcements, and related discussions.
+
+These are not an official part of the IAB workshop.
+
+## Workshop
+
+Interested participants in the workshop are invited to submit position papers on the workshop topics. There are no restrictions on the format. Participants can choose their preferred format, including Internet-Drafts, text- or word-based documents, or papers formatted similar as used by academic publication venues. Submission as PDF is preferred. Paper size is not limited, but brevity is encouraged. Interested participants who have published relevant academic papers may submit these as a position paper, optionally with a short abstract explaining their interest and the paper’s relevance to the workshop. The workshop itself will be focused on discussions based on the position paper topics received.
+
+All inputs submitted and considered relevant will be published on the workshop website. The organizers will issue invitations based on the submissions received. Sessions will be organized according to content, and not every accepted submission or invited attendee will have an opportunity to present; the intent is to foster an active discussion and not simply to have a sequence of presentations. The workshop may also include breakout sessions. A workshop report covering all submissions and the workshop discussion will be published afterwards.
+
+The workshop will be by invitation only. Those wishing to attend should submit a position paper to address the above topics and questions. Position papers from those not planning to attend the workshop themselves are also encouraged.
+
+The online workshop would likely be three 2-3h sessions spread over the week based on submissions and the availability of the invited participants. 
+
+### Logistics 
+This workshop will be held online. 
+
+- Submissions Due: TBD
+- Invitations Issued by: TBD
+- Workshop Dates (TBD): 1 week of December 2024
+- Program Committee (TBD): Wes Hardaker, Qin Wu, Suresh Krishnan, Benoît Claise, Mohamed Boucadair, Mahesh Jethanandani, Dhruv Dhody 
+
+Feel free to contact the Program Committee with any further questions: nemops-workshop-pc@iab.org.
+
