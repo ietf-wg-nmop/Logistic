@@ -4,11 +4,11 @@
 
 # Poll
 
-dddd
+https://mailarchive.ietf.org/arch/msg/nmop/-V_Krr_rhkUddqDphGYv86f7CI4/
 
 # Replies
 
-* Olga: 
+* Olga: https://mailarchive.ietf.org/arch/msg/nmop/4CFONUeFQnv1oQAYLHq1YAzDu5U/
 * Benoît: 
 * Oscar: 
 * Thomas: 
