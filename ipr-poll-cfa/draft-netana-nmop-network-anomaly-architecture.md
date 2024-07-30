@@ -4,12 +4,12 @@
 
 # Poll
 
-dddd
+https://mailarchive.ietf.org/arch/msg/nmop/VIop-1FsM5vv2j0rNTK2ayRLI1k/
 
 # Replies
 
 * Thomas: 
 * Wanting: 
-* Pierre: 
+* Pierre:  https://mailarchive.ietf.org/arch/msg/nmop/W9zGfparGOixG7IddMNlB5EWZKs/
 * Alex: 
 * Vincenzo: 
