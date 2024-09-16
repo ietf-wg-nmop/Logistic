@@ -2,11 +2,17 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
-# Agenda Item (07/01/2024)
+# Agenda Items (16/09/2024)
+
+* Ongoing call for adoption
+* Follow-up from the interim on anomaly
+* Preparation of the future interim on digital map
+
+# Agenda Item (08/07/2024)
 
 * IETF#120 NMOP agenda
 
-# Agenda Item (07/01/2024)
+# Agenda Item (01/07/2024)
 
 * IETF#120 Preparation
 * Digital Map concept & Requirements
