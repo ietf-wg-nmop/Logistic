@@ -7,6 +7,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * Ongoing call for adoption
 * Follow-up from the interim on anomaly
 * Preparation of the future interim on digital map
+* nemops update
 
 # Agenda Item (08/07/2024)
 
