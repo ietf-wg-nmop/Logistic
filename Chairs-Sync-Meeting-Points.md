@@ -4,7 +4,14 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 
 # Agenda Items (23/09/2024)
 
-* Shepherding dispatch
+* Shepherding dispatch: proposal
+  
+   + draft-ietf-nmop-terminology (Med) 
+   + draft-ietf-nmop-network-anomaly-architecture (Benoît)
+   + draft-ietf-nmop-yang-message-broker-integration (Med)
+   + draft-ietf-nmop-digital-map-concept (Med)
+   + draft-ietf-nmop-network-incident-yang (Benoît)
+
 * Preparation of the interim on digital map
 
 # Agenda Items (16/09/2024)
