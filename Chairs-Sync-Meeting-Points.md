@@ -2,6 +2,11 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (23/09/2024)
+
+* Shepherding dispatch
+* Preparation of the interim on digital map
+
 # Agenda Items (16/09/2024)
 
 * Ongoing call for adoption
