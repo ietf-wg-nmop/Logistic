@@ -2,6 +2,10 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Item (30/09/2024)
+
+* Interim meeting: [Chairs Slides](https://github.com/ietf-wg-nmop/IETF-Meetings/blob/main/interim-102024/nmop-chairs-slides.pptx)
+
 # Agenda Items (23/09/2024)
 
 * Shepherding dispatch: proposal
