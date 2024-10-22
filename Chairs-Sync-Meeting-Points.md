@@ -2,6 +2,11 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Item (22/10/2024)
+
+* interim meeting posted?
+* agenda for the IETF
+
 # Agenda Item (30/09/2024)
 
 * Interim meeting: [Chairs Slides](https://github.com/ietf-wg-nmop/IETF-Meetings/blob/main/interim-102024/nmop-chairs-slides.pptx)
