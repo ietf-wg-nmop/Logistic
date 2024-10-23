@@ -4,7 +4,6 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 
 # Agenda Item (22/10/2024)
 
-* interim meeting posted?
 * agenda for the IETF
 
 # Agenda Item (30/09/2024)
