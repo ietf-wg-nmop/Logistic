@@ -5,7 +5,12 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 # Agenda Items (18/11/2024)
 
 * IETF#121 brief
+   + Ongoing CFAs
+   + Ongoing directorate reviews
 * Future interims: SIMAP, anomaly, broker
+   + SIMAP (14/01/25 15-17h CET): Received ACK from Italo
+   + Terminology + Anomaly (21/01/25 15-17h CET)
+   + Broker integration (28/01/25 15-17h CET)
 * LS BBF
 
 # Agenda Item (22/10/2024)
