@@ -2,6 +2,12 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Item (18/11/2024)
+
+* IETF#121 brief
+* Future interims: SIMAP, anomaly, broker
+* LS BBF
+
 # Agenda Item (22/10/2024)
 
 * agenda for the IETF
