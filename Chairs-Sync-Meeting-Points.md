@@ -8,9 +8,9 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
    + Ongoing CFAs
    + Ongoing directorate reviews
 * Future interims: SIMAP, anomaly, broker
-   + SIMAP (14/01/25 15-17h CET): Received ACK from Italo|Thomas
-   + Terminology + Anomaly (21/01/25 15-17h CET): ACK from Thomas
-   + Broker integration (28/01/25 15-17h CET): ACK from Thomas
+   + SIMAP (14/01/25 15-17h CET): Received ACK from Italo|Thomas|Benoît <== TBC (Next Sync)
+   + Terminology + anomaly + incident (28/01/25 15-17h CET)
+   + Broker integration ( 15-17h CET): ACK from Thomas <== TBC (NETCONF WG)
 * LS BBF: [draft](https://github.com/ietf-wg-nmop/Liaison-Statements-Out/blob/main/LS-Out-BBF-AIM-rev%20112024.md)
 * SIMAP Scope
 
