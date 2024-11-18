@@ -11,7 +11,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
    + SIMAP (14/01/25 15-17h CET): Received ACK from Italo|Thomas
    + Terminology + Anomaly (21/01/25 15-17h CET): ACK from Thomas
    + Broker integration (28/01/25 15-17h CET): ACK from Thomas
-* LS BBF
+* LS BBF: [draft](https://github.com/ietf-wg-nmop/Liaison-Statements-Out/blob/main/LS-Out-BBF-AIM-rev%20112024.md)
 
 # Agenda Item (22/10/2024)
 
