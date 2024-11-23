@@ -2,6 +2,13 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (25/11/2024)
+
+* Ongoing CFAs
+* Directorate reviews (terminlogy)
+* Future Interims
+* LS BBF
+
 # Agenda Items (18/11/2024)
 
 * IETF#121 brief
