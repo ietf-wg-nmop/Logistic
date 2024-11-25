@@ -12,9 +12,9 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
   + All received
   
 * Future Interims
-   + SIMAP (14/01/25 15-17h CET): Received ACK from Italo|Thomas|Benoît
-   + Terminology + anomaly + incident (28/01/25 15-17h CET)
-   + Broker integration (XXX 15-17h CET): ACK from Thomas <== (NETCONF WG)
+   + SIMAP (14/01/25 15-17h CET): Received ACK from Italo|Thomas|Benoît <==
+   + Terminology + anomaly + incident (Feb 15-17h CET): Post-Mortem cases and Bring Your Own Outage (Swisscom, DT)
+   + Broker integration (End January/28/01/25 15-17h CET): ACK from Thomas <== (NETCONF WG)
 * LS BBF: [draft](https://github.com/ietf-wg-nmop/Liaison-Statements-Out/blob/main/LS-Out-BBF-AIM-rev%20112024.md)
 
 # Agenda Items (18/11/2024)
