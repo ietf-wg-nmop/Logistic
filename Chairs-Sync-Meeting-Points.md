@@ -5,9 +5,17 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 # Agenda Items (25/11/2024)
 
 * Ongoing CFAs
+  + conclude the calls
+  + add milestones for the two docs
+
 * Directorate reviews (terminlogy)
+  + All received
+  
 * Future Interims
-* LS BBF
+   + SIMAP (14/01/25 15-17h CET): Received ACK from Italo|Thomas|Benoît
+   + Terminology + anomaly + incident (28/01/25 15-17h CET)
+   + Broker integration (XXX 15-17h CET): ACK from Thomas <== (NETCONF WG)
+* LS BBF: [draft](https://github.com/ietf-wg-nmop/Liaison-Statements-Out/blob/main/LS-Out-BBF-AIM-rev%20112024.md)
 
 # Agenda Items (18/11/2024)
 
