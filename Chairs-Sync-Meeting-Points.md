@@ -2,6 +2,14 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (13/01/2025)
+
+* Future interims
+  + Joint meeting with netconf
+  + SIMAP
+* WGLC for terminology I-D
+* IETF#122 preparation
+
 # Agenda Items (02/12/2024)
 
 * Future Interims
