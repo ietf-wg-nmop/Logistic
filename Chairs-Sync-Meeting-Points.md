@@ -2,6 +2,13 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (20/01/2025)
+
+* WGLC Terminology I-D
+* Anomaly doc status
+* Joint interim with netconf
+* Joint interim with BBF
+
 # Agenda Items (13/01/2025)
 
 * Future interims
