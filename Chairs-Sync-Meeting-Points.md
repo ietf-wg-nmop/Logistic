@@ -10,7 +10,9 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * Anomaly doc status
 * Joint interim with BBF
 * Joint interim with netconf
-* IWON
+* IWON: Pick a slot to discuss with Flavio (IWON)
+  + Thursday 30th morning or
+  + Friday 31st morning
 
 # Agenda Items (13/01/2025)
 
