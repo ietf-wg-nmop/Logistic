@@ -2,12 +2,15 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
-# Agenda Items (20/01/2025)
+# Agenda Items (27/01/2025)
 
-* WGLC Terminology I-D
+* Terminology I-D
+  + WGLC
+  + LS to TMF: [draft](https://github.com/ietf-wg-nmop/Liaison-Statements-Out/blob/main/LS-TMF-NMOP-Terminology.md) 
 * Anomaly doc status
-* Joint interim with netconf
 * Joint interim with BBF
+* Joint interim with netconf
+* IWON
 
 # Agenda Items (13/01/2025)
 
