@@ -5,11 +5,11 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 # Agenda Items (27/01/2025)
 
 * Terminology I-D
-  + WGLC
+  + WGLC by end of the week
   + LS to TMF: [draft](https://github.com/ietf-wg-nmop/Liaison-Statements-Out/blob/main/LS-TMF-NMOP-Terminology.md) 
 * Anomaly doc status
-* Joint interim with BBF
-* Joint interim with netconf
+* Joint interim with BBF: 26/02 seems to be OK for key participants
+* Joint interim with netconf: nmop goals
 * IWON: Pick a slot to discuss with Flavio (IWON)
   + Thursday 30th morning or
   + Friday 31st morning
