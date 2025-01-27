@@ -7,13 +7,20 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * Terminology I-D
   + WGLC by end of the week
   + LS to TMF: [draft](https://github.com/ietf-wg-nmop/Liaison-Statements-Out/blob/main/LS-TMF-NMOP-Terminology.md) 
-* Anomaly doc status
-* Joint interim with BBF: 26/02 seems to be OK for key participants
+* Joint interim with BBF: 26/02 picked (schedule the meeting/AP)
 * Joint interim with netconf: nmop goals
-* IWON: Pick a slot to discuss with Flavio (IWON)
-  + Thursday 30th morning or
-  + Friday 31st morning
-* NMOP chair
+  + Remove aelhassany-anydata-validation from the next version: replace with a summary of the issue to be solved
+  + Benoît will contact the netconf chairs on the interim meeting
+* IWON: Pick a slot to discuss with Flavio (IWON)/SIMAP
+    + Friday 31st morning ==> Med to send the OO invit
+* Bring your own outage:
+    + DT/Bell Canada are OK to present in IETF#122
+    + swisscom to present updates since last prez
+* Anomaly docs status
+   + update on semantic/inventory
+   + arch to be updated soon
+* New NMOP co-chair
+
 
 # Agenda Items (13/01/2025)
 
