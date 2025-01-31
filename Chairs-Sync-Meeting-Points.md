@@ -6,8 +6,10 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 
 * interim SIMAP
   + announced, .ics
+  + agenda
 * interim BBF
   + announced, .ics
+  + agenda
 * extra process these days: second IPR call, directorate reviews at WGLC
 
 # Agenda Items (27/01/2025)
