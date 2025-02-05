@@ -11,9 +11,11 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
   + Publish the generic structure as a standalone (check with Andy for review)
   + Publish a new version of the broker and contact the chairs
   + Slide deck for the netconf interim
+
 *  interim SIMAP
-  + announced, .ics
-  + agenda
+   + announced, .ics
+   + agenda
+
 * interim BBF
   + announced, .ics
   + agenda == Thomas to share a first proposal + Chairs review + approch BBF LS to check/review agenda
