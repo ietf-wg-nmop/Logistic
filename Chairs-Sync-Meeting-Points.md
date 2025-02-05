@@ -4,7 +4,10 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 
 # Agenda Items (week of Feb 3rd)
 
-* interim SIMAP
+* Ongoing WGLC for the terminology
+  + no comment received so far
+  + IPR poll reply from Thomas is missing ([replies](https://github.com/ietf-wg-nmop/Logistic/blob/main/ipr-poll-wglc/draft-ietf-nmop-terminology.md))
+*  interim SIMAP
   + announced, .ics
   + agenda
 * interim BBF
