@@ -6,14 +6,17 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 
 * Ongoing WGLC for the terminology
   + no comment received so far
-  + IPR poll reply from Thomas is missing ([replies](https://github.com/ietf-wg-nmop/Logistic/blob/main/ipr-poll-wglc/draft-ietf-nmop-terminology.md))
+  + IPR poll replies OK ([replies](https://github.com/ietf-wg-nmop/Logistic/blob/main/ipr-poll-wglc/draft-ietf-nmop-terminology.md))
+* Message broker
+  + Publish the generic structure as a standalone (check with Andy for review)
+  + Publish a new version of the broker and contact the chairs
+  + Slide deck for the netconf interim
 *  interim SIMAP
   + announced, .ics
   + agenda
 * interim BBF
   + announced, .ics
-  + agenda
-* extra process these days: second IPR call, directorate reviews at WGLC
+  + agenda == Thomas to share a first proposal + Chairs review + approch BBF LS to check/review agenda
 
 # Agenda Items (27/01/2025)
 
