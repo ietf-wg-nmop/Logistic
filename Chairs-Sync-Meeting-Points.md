@@ -2,6 +2,10 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (week of Feb 10th)
+
+* New process? Double IPR call, automatic directorate review
+
 # Agenda Items (week of Feb 3rd)
 
 * Ongoing WGLC for the terminology
