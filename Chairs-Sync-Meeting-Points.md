@@ -5,6 +5,8 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 # Agenda Items (week of Feb 10th)
 
 * New process? Double IPR call, automatic directorate review
+* NETCONF/NMOP interim
+  + foreword by the NMOP chairs?
 
 # Agenda Items (week of Feb 3rd)
 
