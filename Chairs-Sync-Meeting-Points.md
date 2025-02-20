@@ -2,6 +2,13 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (week of Feb 24th)
+
+* Interim this week: logistics
+* Bangkok meeting
+  + logistics
+  + agenda items (second session is about hackathon & operator incident postmortem) 
+  
 # Agenda Items (week of Feb 10th)
 
 * New process? Double IPR call, automatic directorate review
