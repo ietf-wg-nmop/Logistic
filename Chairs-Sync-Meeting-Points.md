@@ -9,7 +9,8 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * Interim this week: logistics
 * Bangkok meeting
   + logistics
-  + agenda items (second session is about hackathon & operator incident postmortem) 
+  + agenda items (second session is about hackathon & operator incident postmortem)
+* Change the call time to include Reshad (btw, off for 3 weeks)
   
 # Agenda Items (week of Feb 10th)
 
