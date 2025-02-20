@@ -4,6 +4,8 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 
 # Agenda Items (week of Feb 24th)
 
+* Documents
+  + terminology
 * Interim this week: logistics
 * Bangkok meeting
   + logistics
