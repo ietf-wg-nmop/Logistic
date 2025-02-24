@@ -6,7 +6,8 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 
 * SIMAP interim minutes: ready?
 * Documents
-  + terminology
+  + terminology: check latest review
+  + latest anomaly I-Ds
 * Interim this week: logistics
 * Bangkok meeting
   + logistics
