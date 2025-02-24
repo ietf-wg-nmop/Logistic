@@ -2,8 +2,9 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
-# Agenda Items (week of Feb 24th)
+# Agenda Items (24/02/2025)
 
+* SIMAP interim minutes: ready?
 * Documents
   + terminology
 * Interim this week: logistics
