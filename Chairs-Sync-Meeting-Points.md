@@ -11,6 +11,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * Bangkok meeting
   + logistics
   + agenda items (second session is about hackathon & operator incident postmortem)
+  + Initialized the page to track the slots ([here](https://github.com/ietf-wg-nmop/IETF-Meetings/blob/main/122/requested-slots.md))
 * Change the call time to include Reshad (btw, off for 3 weeks)
   
 # Agenda Items (week of Feb 10th)
