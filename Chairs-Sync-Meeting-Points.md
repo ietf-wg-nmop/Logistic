@@ -2,6 +2,12 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (03/03/2025)
+
+* Brief Reshad
+* Interim meeting minutes: https://notes.ietf.org/notes-ietf-interim-2025-nmop-02-nmop
+* Ongoing WGLC for terminology
+
 # Agenda Items (24/02/2025)
 
 * SIMAP interim minutes: ready?
