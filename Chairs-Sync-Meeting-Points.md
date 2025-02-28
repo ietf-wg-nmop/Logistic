@@ -6,7 +6,8 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 
 * Brief Reshad
 * Interim meeting minutes: https://notes.ietf.org/notes-ietf-interim-2025-nmop-02-nmop
-* Ongoing WGLC for terminology
+* Conclude the ongoing WGLC for terminology
+
 
 # Agenda Items (24/02/2025)
 
