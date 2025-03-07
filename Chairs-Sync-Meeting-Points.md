@@ -2,6 +2,11 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (10/03/2025)
+
+* Any last minute change to the IETF#122 agenda
+* Review Chairs [slides](https://github.com/ietf-wg-nmop/IETF-Meetings/tree/main/122)
+
 # Agenda Items (03/03/2025)
 
 * Brief Reshad
