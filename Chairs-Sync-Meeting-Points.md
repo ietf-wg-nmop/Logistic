@@ -3,9 +3,11 @@
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
 # Agenda Items (31/03/2025)
-* Review meeting muntes from Thomas
+* slack
+* Review meeting minutes from Thomas
 * Next step for terminology document (email from Adrian)
 * Call for WG adoption for draft-boucadair-nmop-rfc3535-20years-later
+* knowledge engine interim meeting
 
 # Agenda Items (10/03/2025)
 
