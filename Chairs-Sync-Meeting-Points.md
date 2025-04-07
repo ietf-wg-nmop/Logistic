@@ -4,6 +4,8 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 
 # Agenda Items (07/04/2025)
 * Next step for terminology document (email from Adrian)
+* Call for WG adoption for draft-boucadair-nmop-rfc3535-20years-later
+
 
 # Agenda Items (31/03/2025)
 * slack
