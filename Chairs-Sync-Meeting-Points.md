@@ -2,6 +2,9 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (07/04/2025)
+* Next step for terminology document (email from Adrian)
+
 # Agenda Items (31/03/2025)
 * slack
 * Review meeting minutes from Thomas
