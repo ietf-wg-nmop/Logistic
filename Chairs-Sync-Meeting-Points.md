@@ -2,6 +2,11 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (14/04/2025)
+* Response from Adrian for terminology document
+* draft-boucadair-nmop-rfc3535-20years-later v/s NEMOPS report?
+* RFC5706-bis
+  
 # Agenda Items (07/04/2025)
 * Next step for terminology document (email from Adrian)
 * Call for WG adoption for draft-boucadair-nmop-rfc3535-20years-later
