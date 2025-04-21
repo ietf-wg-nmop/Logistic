@@ -2,6 +2,9 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (23/04/2025)
+* Request NMOP WG meeting(s) for IETF123. Need to coordinate with NETCONF?
+
 # Agenda Items (14/04/2025)
 * Response from Adrian for terminology document
 * draft-boucadair-nmop-rfc3535-20years-later v/s NEMOPS report?
