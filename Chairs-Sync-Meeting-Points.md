@@ -3,8 +3,9 @@
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
 # Agenda Items (23/04/2025)
-* Request NMOP WG meeting(s) for IETF123. Need to coordinate with NETCONF?
+* terminology draft
 * https://datatracker.ietf.org/doc/draft-lopez-opsawg-yang-provenance/ as NMOP document
+* Request NMOP WG meeting(s) for IETF123. Need to coordinate with NETCONF?
 * Knowledge Graph interim
 * draft-boucadair-nmop-rfc3535-20years-later
 
