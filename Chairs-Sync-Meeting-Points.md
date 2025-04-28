@@ -7,6 +7,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * Knowledge Graph interim
 * draft-ietf-nmop-yang-message-broker-integration-07 (as co-chair and individual contributor)
 * Next steps for the other adopted docs
+* Next Monday => Tuesday
 
 # Agenda Items (23/04/2025)
 * terminology draft
