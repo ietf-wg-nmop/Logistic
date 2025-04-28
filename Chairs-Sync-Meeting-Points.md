@@ -5,6 +5,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 # Agenda Items (28/04/2025)
 * draft-boucadair-nmop-rfc3535-20years-later
 * Knowledge Graph interim
+* draft-ietf-nmop-yang-message-broker-integration-07 (as co-chair and individual contributor)
 
 # Agenda Items (23/04/2025)
 * terminology draft
