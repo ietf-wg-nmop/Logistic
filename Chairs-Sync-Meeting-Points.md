@@ -2,6 +2,10 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (28/04/2025)
+* draft-boucadair-nmop-rfc3535-20years-later
+* Knowledge Graph interim
+
 # Agenda Items (23/04/2025)
 * terminology draft
 * https://datatracker.ietf.org/doc/draft-lopez-opsawg-yang-provenance/ as NMOP document
