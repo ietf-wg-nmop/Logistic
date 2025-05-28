@@ -2,6 +2,11 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (28/05/2025)
+* draft-boucadair-nmop-rfc3535-20years-later
+* Knowledge Graph interim minutes
+* Knowledge Graph interim next steps e.g. discuss with AD
+
 # Agenda Items (28/04/2025)
 * draft-boucadair-nmop-rfc3535-20years-later
 * Knowledge Graph interim
