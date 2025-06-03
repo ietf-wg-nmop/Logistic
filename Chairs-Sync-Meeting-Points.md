@@ -2,6 +2,12 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (06/03/2025)
+* Interim meeting minutes
+* Knowledge Graph interim next steps e.g. discuss with AD
+* Next IETF meeting: share your incidents
+* Re-establish the https://github.com/orgs/ietf-wg-nmop/projects/1 process (+ add to the invite)
+
 # Agenda Items (28/05/2025)
 * draft-boucadair-nmop-rfc3535-20years-later
 * Knowledge Graph interim minutes
