@@ -6,7 +6,8 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * draft-netana-nmop-message-broker-telemetry-message-01
 * Interim meeting minutes
 * Knowledge Graph interim next steps e.g. discuss with AD and/or design team
-* Next IETF meeting: share your incidents. Yes responses: Thomas (Swisscom), Boris (MTS) 
+* Next IETF meeting: share your incidents. Yes responses: Thomas (Swisscom), Boris (MTS)
+* Generating some traffic on the NMOP mailing list
 
 # Agenda Items (06/03/2025)
 * Interim meeting minutes
