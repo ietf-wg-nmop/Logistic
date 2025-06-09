@@ -2,6 +2,12 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (06/09/2025)
+* draft-netana-nmop-message-broker-telemetry-message-01
+* Interim meeting minutes
+* Knowledge Graph interim next steps e.g. discuss with AD and/or design team
+* Next IETF meeting: share your incidents
+
 # Agenda Items (06/03/2025)
 * Interim meeting minutes
 * Knowledge Graph interim next steps e.g. discuss with AD
