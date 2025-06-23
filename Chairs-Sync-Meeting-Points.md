@@ -2,6 +2,12 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (06/23/2025)
+* Knowledge Graph Design Team
+* Agenda for IETF123
+* Generating some traffic on the NMOP mailing list: next docs to be reviewed
+* Adoption call for draft-netana-nmop-message-broker-telemetry-message
+
 # Agenda Items (06/17/2025)
 * Knowledge Graph Design Team
 * Agenda for IETF123
