@@ -9,6 +9,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * Adoption call for draft-netana-nmop-message-broker-telemetry-message
 * KG team design team
 * Digital Map (email from Olga to chairs)
+* NMOP webex account?
 
 # Agenda Items (06/23/2025)
 * Knowledge Graph Design Team
