@@ -10,6 +10,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * KG team design team
 * Digital Map (email from Olga to chairs)
 * NMOP webex account?
+* draft-boucadair-nmop-rfc3535-20years-later: IPR call done and adoption call next?
 
 # Agenda Items (06/23/2025)
 * Knowledge Graph Design Team
