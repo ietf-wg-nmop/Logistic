@@ -2,6 +2,13 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (07/14/2025)
+* IETF123 agenda (double-check, request for last 5 mins etc)  
+* Chair slides
+* WG slides for OPSAREA (email from Med)
+* Requesting slide upload from presenters
+* Knowledge Graphs
+
 # Agenda Items (07/02/2025)
 * NMOP mailing list password
 * Agenda for IETF123
