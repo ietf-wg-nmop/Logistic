@@ -8,6 +8,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * WG slides for OPSAREA (email from Med)
 * Requesting slide upload from presenters
 * Knowledge Graphs: DT mailing list + update
+* Early YANG doctors and OPS DIR reviews
 
 # Agenda Items (07/02/2025)
 * NMOP mailing list password
