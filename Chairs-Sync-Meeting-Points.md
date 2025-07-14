@@ -7,7 +7,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * Chair slides
 * WG slides for OPSAREA (email from Med)
 * Requesting slide upload from presenters
-* Knowledge Graphs
+* Knowledge Graphs: DT mailing list + update
 
 # Agenda Items (07/02/2025)
 * NMOP mailing list password
