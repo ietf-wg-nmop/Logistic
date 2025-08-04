@@ -2,6 +2,11 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (08/05/2025)
+* IETF123 notes and meeting minutes
+* Quick document scan for next-steps
+* Knowledge Graphs
+  
 # Agenda Items (07/14/2025)
 * IETF123 agenda (double-check, request for last 5 mins etc)  
 * Chair slides
