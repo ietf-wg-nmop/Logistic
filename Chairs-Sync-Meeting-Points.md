@@ -7,6 +7,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * Terminology doc
 * Quick document scan for next-steps
 * Knowledge Graphs
+* IETF124 session requests
   
 # Agenda Items (07/14/2025)
 * IETF123 agenda (double-check, request for last 5 mins etc)  
