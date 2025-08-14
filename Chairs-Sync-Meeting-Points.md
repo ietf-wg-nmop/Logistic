@@ -7,6 +7,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * Knowledge Graphs
 * IETF124 session requests
 * Terminology doc
+* https://github.com/orgs/ietf-wg-nmop/projects/1/views/1
   
 # Agenda Items (08/07/2025)
 * IETF123 notes and meeting minutes
