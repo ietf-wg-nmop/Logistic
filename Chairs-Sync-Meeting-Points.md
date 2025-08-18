@@ -2,6 +2,11 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (08/18/2025)
+* Email from Thomas on draft-ietf-nmop-yang-message-broker-integration and draft-ietf-nmop-message-broker-telemetry-message
+* Terminology doc
+* https://github.com/orgs/ietf-wg-nmop/projects/1/views/1
+  
 # Agenda Items (08/14/2025)
 * IETF123 notes and meeting minutes
 * Knowledge Graphs
