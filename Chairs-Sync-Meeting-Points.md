@@ -3,7 +3,7 @@
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
 # Agenda Items (09/02/2025)
-* Knowledge Graphs
+* Knowledge Graphs: design team, mailing list, https://datatracker.ietf.org/doc/draft-pang-nmop-kg-for-traffic-monitoring-analysis/
 * IETF124
 * https://github.com/orgs/ietf-wg-nmop/projects/1/views/1
 * Olga's message about SIMAP
