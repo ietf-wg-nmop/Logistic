@@ -7,6 +7,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * IETF124
 * https://github.com/orgs/ietf-wg-nmop/projects/1/views/1
 * Olga's message about SIMAP
+* draft-ietf-netconf-notif-envelope, should we respond to WGLC and add nmop@ietf.org (or just fwd it to nmop@ietf.org)?
 
 # Agenda Items (08/18/2025)
 * Email from Thomas on draft-ietf-nmop-yang-message-broker-integration and draft-ietf-nmop-message-broker-telemetry-message
