@@ -4,6 +4,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 
 # Agenda Items (09/08/2025)
 * Knowledge Graphs mailing list
+* Olga's email Sept 2nd: Next steps for SIMAP
 * https://github.com/orgs/ietf-wg-nmop/projects/1/views/1
 
 # Agenda Items (09/02/2025)
