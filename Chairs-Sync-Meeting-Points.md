@@ -2,7 +2,7 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
-# Agenda Items (09/23-9/2025)
+# Agenda Items (09/29/2025)
 * KG design team + mailing list
 * No call for me next week
 * simap-concept comments
