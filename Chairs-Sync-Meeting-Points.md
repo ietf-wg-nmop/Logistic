@@ -3,7 +3,6 @@
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
 # Agenda Items (09/23-9/2025)
-* Respond to Chongfeng (bring your incident @ iETF124)
 * KG design team + mailing list
 * No call for me next week
 * simap-concept comments
