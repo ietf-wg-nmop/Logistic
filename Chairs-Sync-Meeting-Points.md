@@ -2,6 +2,12 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (10/14/2025)
+* IETF124 agenda, e.g do we chase doc authors?
+* simap-concept comments
+* Email from Chongfeng
+* No presentation from Equinix for "bring your incident"
+
 # Agenda Items (09/29/2025)
 * KG design team + mailing list
 * No call for me next week
