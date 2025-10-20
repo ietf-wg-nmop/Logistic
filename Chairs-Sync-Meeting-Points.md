@@ -2,7 +2,7 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
-# Agenda Items (10/14/2025)
+# Agenda Items (10/20/2025)
 * IETF124 agenda, e.g do we chase doc authors?
 * simap-concept comments
 * KG design team
