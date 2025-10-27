@@ -4,6 +4,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 
 # Agenda Items (10/27/2025)
 * IETF124 agenda (Telus "bring your incident"?)
+* Chair slides (new "note well")
 * Send reminder for presentations
 * Email authors of https://datatracker.ietf.org/doc/draft-pang-nmop-kg-for-traffic-monitoring-analysis?
   
