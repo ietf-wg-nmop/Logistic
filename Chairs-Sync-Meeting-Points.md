@@ -7,6 +7,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * Chair slides (new "note well")
 * Send reminder for presentations
 * Email authors of https://datatracker.ietf.org/doc/draft-pang-nmop-kg-for-traffic-monitoring-analysis?
+* simap-concept: next step?
   
 # Agenda Items (10/20/2025)
 * IETF124 agenda, e.g do we chase doc authors?
