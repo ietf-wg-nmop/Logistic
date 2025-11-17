@@ -2,6 +2,10 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (11/17/2025)
+* IETF124 minutes (thank you Thomas)
+* simap-concepts WG LC
+
 # Agenda Items (10/27/2025)
 * IETF124 agenda (Telus "bring your incident"?)
 * Chair slides (new "note well")
