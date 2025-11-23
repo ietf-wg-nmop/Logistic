@@ -2,6 +2,11 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (11/24/2025)
+* simap-concepts WGLC (email from Italo)
+* Anomaly detection (email from Thomas)
+* Capabilities (email from Nigel)
+
 # Agenda Items (11/17/2025)
 * IETF124 minutes (thank you Thomas)
 * simap-concepts WG LC
