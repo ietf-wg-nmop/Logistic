@@ -6,6 +6,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * simap-concepts WGLC (email from Italo)
 * Anomaly detection (email from Thomas)
 * Capabilities (email from Nigel)
+* KG and NMOP charter (email from Mahesh)
 
 # Agenda Items (11/17/2025)
 * IETF124 minutes (thank you Thomas)
