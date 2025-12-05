@@ -2,8 +2,10 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
-# Agenda Items (Next one)
+# Agenda Items (12/08/2025)
 * experimental status for draft-ietf-nmop-network-anomaly-lifecycle and draft-ietf-nmop-network-anomaly-semantics
+* Adoption request for message-keys (email from Thomas)
+* simap-concepts WGLC
 
 # Agenda Items (11/24/2025)
 * simap-concepts WGLC (email from Italo)
