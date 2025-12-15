@@ -2,6 +2,9 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (12/15/2025)
+* KG DT (Pauline's email)
+
 # Agenda Items (12/08/2025)
 * experimental status for draft-ietf-nmop-network-anomaly-lifecycle and draft-ietf-nmop-network-anomaly-semantics
 * Adoption request for message-keys (email from Thomas)
