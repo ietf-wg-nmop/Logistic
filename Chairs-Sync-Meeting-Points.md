@@ -7,7 +7,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * NMOP 125 organization
 * Go through docs for next steps
 
-* # Agenda Items (12/15/2025)
+# Agenda Items (12/15/2025)
 * KG DT (Pauline's email)
 
 # Agenda Items (12/08/2025)
