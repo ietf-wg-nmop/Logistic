@@ -3,8 +3,9 @@
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
 # Agenda Items (01/19/2025)
-* NMOP session request
+* NMOP session request (can we request for morning so that Reshad can attend remotely?)
 * NMOP 125 organization
+* Go through docs for next steps
 
 * # Agenda Items (12/15/2025)
 * KG DT (Pauline's email)
