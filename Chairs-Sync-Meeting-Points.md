@@ -3,6 +3,10 @@
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
 # Agenda Items (01/19/2025)
+* Go through all docs for next steps
+* Should we do an NMOP wiki e.g. https://wiki.ietf.org/en/group/bfd
+  
+# Agenda Items (01/19/2025)
 * NMOP session request (can we request for morning so that Reshad can attend remotely?)
 * NMOP 125 organization
 * Go through docs for next steps
