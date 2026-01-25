@@ -4,6 +4,8 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 
 # Agenda Items (01/19/2025)
 * Go through all docs for next steps
+    * [SIMAP concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept/) in WGLC, Olga and co-authors working thorough issues.
+    * 
 * Should we do an NMOP wiki e.g. https://wiki.ietf.org/en/group/bfd
   
 # Agenda Items (01/19/2025)
