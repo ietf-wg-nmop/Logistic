@@ -2,13 +2,20 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
-# Agenda Items (01/19/2025)
+# Agenda Items (01/26/2026)
 * Go through all docs for next steps
-    * [SIMAP concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept/) in WGLC, Olga and co-authors working thorough issues.
-    * 
-* Should we do an NMOP wiki e.g. https://wiki.ietf.org/en/group/bfd
+    * [draft-ietf-nmop-simap-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept/) in WGLC, Olga and co-authors working thorough issues.
+    * [draft-ietf-nmop-network-incident-yang](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-incident-yang/) last updated Jan 4th, comments from Daniel King. Also YANG errors reported on by datatracker.
+    * [draft-ietf-nmop-network-anomaly-architecture](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-architecture/) last updated Jan 18th (addressed comments from Ruediger Geib). Looking for further reviews.
+    * [draft-ietf-nmop-network-anomaly-semantics](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-semantics/) last updated Jan 19th (addressed comments from Ruediger Geib). Looking for further reviews.
+    * [draft-ietf-nmop-network-anomaly-lifecycle](https://datatracker.ietf.org/doc/draft-ietf-nmop-network-anomaly-lifecycle/) last updated 21st Nov. There is a YANG error. Looking for further reviews.
+    * [draft-ietf-nmop-message-broker-telemetry-message](https://datatracker.ietf.org/doc/draft-ietf-nmop-message-broker-telemetry-message/) last updated Jan 18th. Need response from YD reviewer (Martin). Normartive reference of yang-message-broker-integration and message-keys.
+    * [draft-ietf-nmop-yang-message-broker-integration](https://datatracker.ietf.org/doc/draft-ietf-nmop-yang-message-broker-integration/) last updated Jan 18th.
+    * [draft-ietf-nmop=rfc3535-20years-later](https://datatracker.ietf.org/doc/draft-ietf-nmop-rfc3535-20years-later/) last updated Oct 15th. Seems to have stalled. Med was the main driver for this document.
+    * [draft-netana-nmop-yang-message-broker-message-key](https://datatracker.ietf.org/doc/draft-netana-nmop-yang-message-broker-message-key/) last updated Jan 24th. Authors asked for adoption early December, chairs wanted to wait (but i think we should be good now). I couldn't find what doc references this one.
+* Should we do an NMOP wiki e.g. https://wiki.ietf.org/en/group/bfd where we can maintain status about all docs?
   
-# Agenda Items (01/19/2025)
+# Agenda Items (01/19/2026)
 * NMOP session request (can we request for morning so that Reshad can attend remotely?)
 * NMOP 125 organization
 * Go through docs for next steps
