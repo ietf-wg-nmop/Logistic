@@ -14,6 +14,12 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
     * [draft-ietf-nmop=rfc3535-20years-later](https://datatracker.ietf.org/doc/draft-ietf-nmop-rfc3535-20years-later/) last updated Oct 15th. Seems to have stalled. Med was the main driver for this document.
     * [draft-netana-nmop-yang-message-broker-message-key](https://datatracker.ietf.org/doc/draft-netana-nmop-yang-message-broker-message-key/) last updated Jan 24th. Authors asked for adoption early December, chairs wanted to wait (but i think we should be good now). I couldn't find what doc references this one.
 * Should we do an NMOP wiki e.g. https://wiki.ietf.org/en/group/bfd where we can maintain status about all docs?
+
+* Liaison statement
+
+* Hackathon
+
+* draft-netana-nmop-yang-message-broker-message-key adoption call
   
 # Agenda Items (01/19/2026)
 * NMOP session request (can we request for morning so that Reshad can attend remotely?)
