@@ -5,6 +5,9 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 # Agenda Items (02/02/2026)
 * When do we send IETF125 agenda email to WG?
 * SIMAP WGLC
+* How to find out the doc status WIKI from https://github.com/ietf-wg-nmop ? Is it public/private?
+* Document review before the IETF
+* Review https://github.com/orgs/ietf-wg-nmop/projects/1/views/1
 
 # Agenda Items (01/26/2026)
 * Go through all docs for next steps
