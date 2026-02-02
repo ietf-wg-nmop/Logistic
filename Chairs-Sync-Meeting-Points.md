@@ -2,6 +2,10 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (02/02/2026)
+* When do we send IETF125 agenda email to WG?
+* SIMAP WGLC
+
 # Agenda Items (01/26/2026)
 * Go through all docs for next steps
     * [draft-ietf-nmop-simap-concept](https://datatracker.ietf.org/doc/draft-ietf-nmop-simap-concept/) in WGLC, Olga and co-authors working thorough issues.
