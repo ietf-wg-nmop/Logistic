@@ -2,6 +2,9 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (02/09/2026)
+* KG drafts next-steps. There are pros/cons for each NMOP/NMRG/ISE
+
 # Agenda Items (02/02/2026)
 * When do we send IETF125 agenda email to WG?
 * SIMAP WGLC
