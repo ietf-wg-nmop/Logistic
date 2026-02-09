@@ -2,7 +2,7 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
-# Agenda Items (02/09/2026)
+# Agenda Items (02/17/2026)
 * KG drafts next-steps. There are pros/cons for each NMOP/NMRG/ISE
 
 # Agenda Items (02/02/2026)
