@@ -2,6 +2,9 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (03/02/2026)
+* IETF 125 agenda
+
 # Agenda Items (02/23/2026)
 * KG drafts next-steps. There are pros/cons for each NMOP/NMRG/ISE
 * Adoption call message-keys
