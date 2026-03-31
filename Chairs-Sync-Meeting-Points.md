@@ -2,6 +2,10 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (03/31/2026)
+* IETF 125 minutes
+* SIMAP yang
+
 # Agenda Items (03/23/2026)
 * IETF 125 retrospective (I got some feedback)
   
