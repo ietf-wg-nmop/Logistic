@@ -2,6 +2,10 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (05/25/2026)
+* NMOP "post-mortem"
+* AINETOPS
+
 # Agenda Items (05/11/2026)
 * NMOP secretary
 * Med's email (NMOP/NMRG)
