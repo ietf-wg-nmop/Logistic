@@ -4,6 +4,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 
 # Agenda Items (05/11/2026)
 * NMOP secretary
+* Med'e email (NMOP/NMRG)
 * SIMAP modelling
 * IETF 126
   
