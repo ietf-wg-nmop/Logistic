@@ -2,6 +2,11 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (05/11/2026)
+* NMOP secretary
+* SIMAP modelling
+* IETF 126
+  
 # Agenda Items (04/06/2026)
 * IETF 125 minutes (Italo's response)
 * Survey for WG participants?
