@@ -3,8 +3,12 @@
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
 # Agenda Items (05/25/2026)
-* NMOP "post-mortem"
+* NMOP "post-mortem" (i.e survey or ...)
 * AINETOPS
+* WG secretaries announcement
+* ONSEN charter (emails from Mahesh + Med)
+* draft-ietf-nmop-network-incident-yang (request for WGLC but not from authors)
+* SIMAP modelling (Olga/Italo)
 
 # Agenda Items (05/11/2026)
 * NMOP secretary
