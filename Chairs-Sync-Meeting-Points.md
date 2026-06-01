@@ -2,6 +2,14 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (01/06/2026)
+* ONSEN charter
+* NMOP "post-mortem" (i.e survey or ...)
+* Call with the secretaries
+* Bring your incident:
+** New ones?
+** Checking the content in advance
+
 # Agenda Items (05/25/2026)
 * NMOP "post-mortem" (i.e survey or ...)
 * AINETOPS
