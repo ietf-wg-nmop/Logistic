@@ -4,9 +4,9 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 
 # Agenda Items (08/06/2026)
 * Onboarding of secretaries. Suggestion:
- - Go over charter
- - Secretary role (Thomas can talk about that)
- - Document status
+    - Go over charter
+    - Secretary role (Thomas can talk about that)
+    - Document status
 * NMOP survey (notify ADs first?)
   
 # Agenda Items (01/06/2026)
