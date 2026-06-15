@@ -2,6 +2,14 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (15/06/2026)
+* IETF126 
+    - Document status @ https://github.com/ietf-wg-nmop/IETF-Meetings/blob/main/126/document-status/nmop126-document-status.md
+    - Which one to do WGLC next (we had emails, not from authors, to advance network-incident-yang)
+    - Send reminder emails once preliminary agenda is out
+* Survey response (Xing and Daniele)
+* ONSEN
+
 # Agenda Items (08/06/2026)
 * Onboarding of secretaries. Suggestion:
     - Go over charter
