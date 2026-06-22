@@ -7,6 +7,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
     - Document status @ https://github.com/ietf-wg-nmop/IETF-Meetings/blob/main/126/document-status/nmop126-document-status.md (and my PR for references)
     - Reach out to operators for Bring your incident (response from Matthew Wilder?)? Check content in advance as Benoit suggested previously.
 * draft-ietf-nmop-network-incident-yang next steps (based on email discussions last week)
+* simap-yang and email from Olga on next steps (meeting before IETF126)
 * Email thread from Thomas (collaboration NMRG/NMOP/etc)
 * AIOPS
 
