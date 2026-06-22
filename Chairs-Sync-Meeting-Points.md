@@ -2,6 +2,12 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (22/06/2026)
+* IETF126 (agenda etc)
+* draft-ietf-nmop-network-incident-yang next steps
+* Email from Thomas (collaboration)
+* AIOPS
+
 # Agenda Items (15/06/2026)
 * IETF126 
     - Document status @ https://github.com/ietf-wg-nmop/IETF-Meetings/blob/main/126/document-status/nmop126-document-status.md
