@@ -2,6 +2,13 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (30/06/2026)
+* IETF126 prep
+    - Document status @ https://github.com/ietf-wg-nmop/IETF-Meetings/blob/main/126/document-status/nmop126-document-status.md (normative references added)
+    - Slot requests (updating new document created by Benoit)
+    - Chair slides
+    - Slides for OPSAREA
+
 # Agenda Items (22/06/2026)
 * IETF126
     - Document status @ https://github.com/ietf-wg-nmop/IETF-Meetings/blob/main/126/document-status/nmop126-document-status.md (and my PR for references)
