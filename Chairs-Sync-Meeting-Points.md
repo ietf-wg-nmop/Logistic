@@ -8,6 +8,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
     - Slot requests (updating new document created by Benoit)
     - Chair slides
     - Slides for OPSAREA
+    - Share your incident
 
 # Agenda Items (22/06/2026)
 * IETF126
