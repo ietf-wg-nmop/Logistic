@@ -2,6 +2,14 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (06/07/2026)
+* IETF126 prep
+    - Agenda: Slot requests @ https://github.com/ietf-wg-nmop/IETF-Meetings/blob/main/126/proposed-slots.md (thanks Lucia for updating the doc). From https://datatracker.ietf.org/meeting/126/important-dates, 2026-07-08	Wednesday	Draft Working Group agendas due by UTC 23:59. Upload using the Meeting Materials Management Tool.
+    - SIMAP modeling analysis (see email to nmop-chairs). Olga seems to have requested a slot but not yet for Italo.
+    - Chair slides (Reshad)
+    - OPSAREA slides (Benoit)
+    - NMRG/NMOP? (Jeferson)
+
 # Agenda Items (30/06/2026)
 * IETF126 prep
     - Document status @ https://github.com/ietf-wg-nmop/IETF-Meetings/blob/main/126/document-status/nmop126-document-status.md (normative references added)
