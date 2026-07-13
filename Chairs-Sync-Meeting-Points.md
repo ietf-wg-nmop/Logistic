@@ -6,6 +6,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * IETF126 prep
     - Agenda (Reshad)
     - Chair slides (Reshad)
+    - Sending reminders for slides to presenters
     - OPSAREA slides(Benoit)
     - rfc3535-20years-later (Med asked for WGLC)
     - NMRG/NMOP (Jeferson)
