@@ -2,6 +2,14 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (13/07/2026)
+* IETF126 prep
+    - Agenda (Reshad)
+    - Chair slides (Reshad)
+    - OPSAREA slides(Benoit)
+    - rfc3535-20years-later (Med asked for WGLC)
+    - NMRG/NMOP (Jeferson)
+  
 # Agenda Items (06/07/2026)
 * IETF126 prep
     - Agenda: Slot requests @ https://github.com/ietf-wg-nmop/IETF-Meetings/blob/main/126/proposed-slots.md (thanks Lucia for updating the doc). From https://datatracker.ietf.org/meeting/126/important-dates, 2026-07-08	Wednesday	Draft Working Group agendas due by UTC 23:59. Upload using the Meeting Materials Management Tool.
