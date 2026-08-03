@@ -2,6 +2,14 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (03/08/2026)
+* Post-IETF126
+    - Minutes
+    - Action Items (e.g. WGLC/review for some docs)
+    - SIMAP YANG way forward (3 docs)
+    - Feedback received on NMOP WG (Thomas only?)
+* Email from Christopher Janz
+
 # Agenda Items (13/07/2026)
 * IETF126 prep
     - Agenda (Reshad)
