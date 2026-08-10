@@ -2,6 +2,12 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (10/08/2026)
+* IETF126 minutes
+* SIMAP YANG (3 docs)
+* draft-ietf-nmop-network-incident-yang: YD review once we're good with latest revision
+* Anomaly docs: Thomas said early YANG Doctor review would be helpful
+
 # Agenda Items (03/08/2026)
 * Post-IETF126
     - Minutes
