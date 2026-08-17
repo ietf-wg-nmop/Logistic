@@ -2,6 +2,13 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (17/08/2026)
+* AIs from IETF126 minutes
+    - draft-ietf-nmop-network-incident-yang: Chairs to review the latest revision and proceed accordingly
+    - Network anomaly detection: Chairs to request early YANG Doctor review
+    - SIMAP YANG: Chairs to send an email on how the SIMAP-YANG documents will progress
+    - draft-cabanillas-nmop-authz-policy-sharing-model: Chairs and AD to discuss with authors where this document should reside
+
 # Agenda Items (10/08/2026)
 * IETF126 minutes
 * SIMAP YANG (3 docs)
