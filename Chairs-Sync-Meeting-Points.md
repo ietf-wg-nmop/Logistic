@@ -6,6 +6,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * draft-ietf-nmop-network-incident-yang, Benoit on top of it
 * IETF 127 - Working Group/IRTF Scheduling
 * SIMAP next steps
+* new charter
 
 
 # Agenda Items (17/08/2026)
