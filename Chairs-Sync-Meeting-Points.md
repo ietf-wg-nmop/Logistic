@@ -2,6 +2,12 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (31/08/2026)
+* draft-ietf-nmop-network-incident-yang, Benoit on top of it
+* IETF 127 - Working Group/IRTF Scheduling
+* SIMAP next steps
+
+
 # Agenda Items (17/08/2026)
 * AIs from IETF126 minutes
     - draft-ietf-nmop-network-incident-yang: Chairs to review the latest revision and proceed accordingly
