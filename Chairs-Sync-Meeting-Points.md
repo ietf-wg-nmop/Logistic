@@ -7,6 +7,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * IETF 127 - Working Group/IRTF Scheduling
 * SIMAP next steps
 * new charter
+* sharing your incident
 
 
 # Agenda Items (17/08/2026)
