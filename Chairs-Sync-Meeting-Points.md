@@ -2,6 +2,12 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (08/09/2026)
+* Go over WG documents
+* new charter
+* sharing your incident for IETF127
+* IETF126 AIs
+
 # Agenda Items (31/08/2026)
 * draft-ietf-nmop-network-incident-yang, Benoit on top of it
 * IETF 127 - Working Group/IRTF Scheduling
