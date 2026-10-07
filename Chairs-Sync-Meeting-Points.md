@@ -2,6 +2,14 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (12/10/2026)
+* New NMOP charter and AIOPS
+* IETF127 agenda
+  
+# Agenda Items (30/09/2026)
+* Go over WG documents
+* sharing your incident for IETF127
+
 # Agenda Items (08/09/2026)
 * Go over WG documents
 * new charter
