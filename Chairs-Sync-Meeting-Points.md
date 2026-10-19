@@ -2,6 +2,12 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (19/10/2026)
+* New NMOP charter and AIOPS
+* incident-yang
+* RFC3535bis
+* preliminary agenda
+
 # Agenda Items (12/10/2026)
 * New NMOP charter and AIOPS
 * IETF127 agenda
