@@ -7,6 +7,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * incident-yang
 * RFC3535bis
 * preliminary agenda
+* Joe Clarke
 
 # Agenda Items (12/10/2026)
 * New NMOP charter and AIOPS
