@@ -2,6 +2,12 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (26/10/2026)
+* Benoit: trip to USA?
+* "NMOP recharter for "new experiments"?" => no news from Mahesh
+* https://github.com/orgs/ietf-wg-nmop/projects/1/views/1?pane=issue&itemId=283546892&issue=ietf-wg-nmop%7CLogistic%7C66 created
+* NMOP agenda
+
 # Agenda Items (19/10/2026)
 * New NMOP charter and AIOPS
 * incident-yang
