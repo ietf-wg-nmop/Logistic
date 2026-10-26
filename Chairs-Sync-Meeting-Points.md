@@ -7,6 +7,11 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * "NMOP recharter for "new experiments"?" => no news from Mahesh
 * https://github.com/orgs/ietf-wg-nmop/projects/1/views/1?pane=issue&itemId=283546892&issue=ietf-wg-nmop%7CLogistic%7C66 created
 * NMOP agenda
+* SIMAP concept
+* SIMAP YANG
+* RFC3535bis (need to look into comments from Jeferson)
+* message-broker and telemetry-msg (waiting for update from authors)
+* anomaly documents (waiting for YD review)
 
 # Agenda Items (19/10/2026)
 * New NMOP charter and AIOPS
