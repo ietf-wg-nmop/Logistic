@@ -2,6 +2,13 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (03/11/2026)
+* NMOP agenda @ IETF127
+* Next docs ready for WGLC, do we do them staggered or at the same time etc?
+    - 3535-bis
+    - msg-broker and msg-broker-telemetry-msg
+* Logistics @ IETF127
+
 # Agenda Items (26/10/2026)
 * Benoit: trip to USA?
 * "NMOP recharter for "new experiments"?" => no news from Mahesh
