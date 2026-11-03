@@ -9,6 +9,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
     - 3535-bis
     - msg-broker and msg-broker-telemetry-msg
 * Logistics @ IETF127
+* Respond to Christopher Janz on https://datatracker.ietf.org/doc/draft-janz-nmrg-adhoc-semantic-reconciliation/
 
 # Agenda Items (26/10/2026)
 * Benoit: trip to USA?
