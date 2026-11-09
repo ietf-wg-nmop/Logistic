@@ -2,6 +2,12 @@
 
 https://github.com/orgs/ietf-wg-nmop/projects/1
 
+# Agenda Items (10/11/2026)
+* Discuss NMOP agenda @ IETF127
+* Chair slides @ https://github.com/ietf-wg-nmop/IETF-Meetings/pull/42/changes
+* NMOP rechartering
+* Logistics for IETF127 e.g. send email for slides etc
+  
 # Agenda Items (03/11/2026)
 * NMOP agenda @ IETF127
 * Rechartering 
