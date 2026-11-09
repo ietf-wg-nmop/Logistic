@@ -7,6 +7,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 * Chair slides @ https://github.com/ietf-wg-nmop/IETF-Meetings/pull/42/changes
 * NMOP rechartering
 * Email to the potential authors of AI-related experiments
+* Review of updated/new NMOP docs before IETF127
 * Logistics for IETF127 e.g. send email for slides etc
   
 # Agenda Items (03/11/2026)
