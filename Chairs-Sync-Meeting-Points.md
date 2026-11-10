@@ -4,6 +4,7 @@ https://github.com/orgs/ietf-wg-nmop/projects/1
 
 # Agenda Items (10/11/2026)
 * Discuss NMOP agenda @ IETF127
+    - Should we take out anydata-validation since they now have time in NETMOD? If yes, replace with what request?
 * Chair slides @ https://github.com/ietf-wg-nmop/IETF-Meetings/pull/42/changes
 * NMOP rechartering
 * Email to the potential authors of AI-related experiments
